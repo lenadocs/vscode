@@ -15,6 +15,12 @@
 Table of contents
 =================
 
+1. [Installation](#installation)
+* [STDIN](#stdin)
+2. [Usage](#usage)
+3. [Tests](#tests)
+4. [Dependency](#dependency)
+
 <!--ts-->
    * [Installation](#installation)
    * [Usage](#usage)
