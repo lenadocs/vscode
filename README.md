@@ -1,12 +1,17 @@
+VS Code 실전 가이드(가제)
+
+
 # Table of Contents
-1. [Example](#example)
-   1. [Sub paragraph](#subparagraph1)
-   2. [Sub paragraph](#subparagraph1)
-      1. [Example2](#example2)
-      2. [Example2](#example2) 
-    1. [Sub paragraph](#subparagraph1)
-    1. [Sub paragraph](#subparagraph1)
-    1. [Sub paragraph](#subparagraph1)
+
+1부 VS Code 기본 사용법
+
+1. [VS Code 시작하기](#Start-VS-Code)
+   - [Visual Studio Code란?](#What-is-Visual-Studio-Code?)
+   - [VS Code 설치하기](#Installing-VS-Code)
+      - [Example2](#example2)
+      - [Example2](#example2) 
+    - [VS Code 초기 설정](#VSCode-Initial-Setup)
+    - [VS Code 화면 구성](#VSCode-View-Configuration)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
