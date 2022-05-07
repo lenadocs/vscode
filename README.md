@@ -5,119 +5,27 @@ VS Code 실전 가이드(가제)
 
 1부 VS Code 기본 사용법
 
-1. [VS Code 시작하기](#Start-VS-Code)
-   - [Visual Studio Code란?](#What-is-Visual-Studio-Code?)
-   - [VS Code 설치하기](#Installing-VS-Code)
+1. [VS Code 시작하기](#start-vs-code)
+   - [Visual Studio Code란?](#what-is-visual-studio-code?)
+   - [VS Code 설치하기](#installing-vs-code)
       - [Example2](#example2)
       - [Example2](#example2) 
-    - [VS Code 초기 설정](#VSCode-Initial-Setup)
-    - [VS Code 화면 구성](#VSCode-View-Configuration)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-    4.1. [Sub paragraph](#subparagraph1)
-
-# Table of Contents
-1. [Example](#example)
+   - [VS Code 초기 설정](#VSCode-Initial-Setup)
+   - [VS Code 화면 구성](#VSCode-View-Configuration)
+2. [VS Code 사용하기](#Programming-Support)
+3. [VS Code 커스트마이징하기](#customizing-vs-code)
+4. [VS Code 확장 기능](#fourth-examplehttpwwwfourthexamplecom)
    - [Sub paragraph](#subparagraph1)
+5. [버전 관리 시스템 연동하기](#fourth-examplehttpwwwfourthexamplecom)
    - [Sub paragraph](#subparagraph1)
-      - [Example2](#example2)
-      - [Example2](#example2) 
-    - [Sub paragraph](#subparagraph1)
-    - [Sub paragraph](#subparagraph1)
-    - [Sub paragraph](#subparagraph1)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-    4.1. [Sub paragraph](#subparagraph1)
-    5.
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+6. [VS Code로 문서작성하기](#fourth-examplehttpwwwfourthexamplecom)
+   - [Sub paragraph](#subparagraph1)      
+7. [VS Code로 웹 프로그램 개발하기](#fourth-examplehttpwwwfourthexamplecom)
+   - [Sub paragraph](#subparagraph1)       
 
 
-Table of contents
-=================
-100. First list item
-     - First nested list item
-1. First list item
-   - First nested list item
-     - Second nested list item
-     - 
-1. [Installation](#installation)
-   * [STDIN](#stdin)
-     * [Local files](#local-files)
-       * [Multiple files](#multiple-files)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-2. [Some paragraph](#paragraph1)
-    * [Sub paragraph](#subparagraph1)
-2. [Some paragraph](#paragraph1)
-    - [Sub paragraph](#subparagraph1)
-
-2. [Usage](#usage)
-3. [Tests](#tests)
-4. [Dependency](#dependency)
-
-<!--ts-->
-   * [Installation](#installation)
-   * [Usage](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
-<!--te-->
-
-Table of Contents
-=================
-
-  * [envirius](#envirius)
-    * [Idea](#idea)
-    * [Features](#features)
-  * [Installation](#installation)
-  * [Uninstallation](#uninstallation)
-  * [Available plugins](#available-plugins)
-  * [Usage](#usage)
-    * [Check available plugins](#check-available-plugins)
-    * [Check available versions for each plugin](#check-available-versions-for-each-plugin)
-    * [Create an environment](#create-an-environment)
-    * [Activate/deactivate environment](#activatedeactivate-environment)
-      * [Activating in a new shell](#activating-in-a-new-shell)
-      * [Activating in the same shell](#activating-in-the-same-shell)
-    * [Get list of environments](#get-list-of-environments)
-    * [Get current activated environment](#get-current-activated-environment)
-    * [Do something in environment without enabling it](#do-something-in-environment-without-enabling-it)
-    * [Get help](#get-help)
-    * [Get help for a command](#get-help-for-a-command)
-  * [How to add a plugin?](#how-to-add-a-plugin)
-    * [Mandatory elements](#mandatory-elements)
-      * [plug_list_versions](#plug_list_versions)
-      * [plug_url_for_download](#plug_url_for_download)
-      * [plug_build](#plug_build)
-    * [Optional elements](#optional-elements)
-      * [Variables](#variables)
-      * [Functions](#functions)
-    * [Examples](#examples)
-  * [Example of the usage](#example-of-the-usage)
-  * [Dependencies](#dependencies)
-  * [Supported OS](#supported-os)
-  * [Tests](#tests)
-  * [Version History](#version-history)
-  * [License](#license)
-  * [README in another language](#readme-in-another-language)
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+## VS Code 시작하기 <a name="introduction"></a>
+### Visual Studio Code란? <a name="what-is-visual-studio-code?"></a>
+### VS Code 설치하기 <a name="installing-vs-code"></a>]
+### VS Code 초기 설정 <a name="vs-code-initial-setup"></a>]
+### VS Code 커스트마이징하기 <a name="customizing-vs-code"></a>
