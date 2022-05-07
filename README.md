@@ -19,6 +19,8 @@ Table of contents
   * [STDIN](#stdin)
     * [Local files](#local-files)
       * [Multiple files](#multiple-files)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
 2. [Usage](#usage)
 3. [Tests](#tests)
 4. [Dependency](#dependency)
