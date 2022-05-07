@@ -17,6 +17,8 @@ Table of contents
 
 1. [Installation](#installation)
 * [STDIN](#stdin)
+  * [Local files](#local-files)
+    * [Multiple files](#multiple-files)
 2. [Usage](#usage)
 3. [Tests](#tests)
 4. [Dependency](#dependency)
