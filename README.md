@@ -16,13 +16,13 @@ Table of contents
 =================
 
 1. First list item
-   * First nested list item
+   - First nested list item
      - Second nested list item
      - 
 1. [Installation](#installation)
-  * [STDIN](#stdin)
-    * [Local files](#local-files)
-      * [Multiple files](#multiple-files)
+   * [STDIN](#stdin)
+     * [Local files](#local-files)
+       * [Multiple files](#multiple-files)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 2. [Some paragraph](#paragraph1)
