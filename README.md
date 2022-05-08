@@ -12,7 +12,7 @@ VS Code 실전 가이드(가제)
       - [CLI로 설치하기](#example3) 
    - [VS Code 초기 설정](#vscode-initial-setup)
    - [VS Code 화면 구성](#vscode-view-configuration)
-2. [VS Code 사용하기](#programming-support)
+2. [VS Code 사용하기](#Using VS Code)
 3. [VS Code 커스트마이징하기](#customizing-vs-code)
 4. [VS Code 확장 기능](#fourth-examplehttpwwwfourthexamplecom)
    - [Sub paragraph](#subparagraph1)
@@ -24,20 +24,21 @@ VS Code 실전 가이드(가제)
    - [Sub paragraph](#subparagraph1)       
 
 
-## VS Code 시작하기 <a name="introduction"></a>
-### Visual Studio Code란? <a name="what-is-visual-studio-code?"></a>
-#### VS Code 역사
-#### VS Code 기능 및 특징
-#### VS Code 라이선스
-#### VS Code 버전 관리
-### VS Code 설치하기 <a name="installing-vs-code"></a>
-#### 인스톨러를 사용하여 설치하기
-#### VS Code 실행
-#### VS Code 한국어 언어팩 설치
-#### VS Code 업데이트
-### VS Code 초기 설정 <a name="vs-code-initial-setup"></a>
+## 1. VS Code 시작하기 <a name="introduction"></a>
+### 1.1 Visual Studio Code란? <a name="what-is-visual-studio-code?"></a>
+#### 1.1.1 VS Code 역사
+#### 1.1.2 VS Code 기능 및 특징
+#### 1.1.3 VS Code 라이선스
+#### 1.1.4 VS Code 버전 관리
+### 1.2 VS Code 설치하기 <a name="installing-vs-code"></a>
+#### 1.2.1 인스톨러를 사용하여 설치하기
+#### 1.2.2 VS Code 실행
+#### 1.2.3 VS Code 한국어 언어팩 설치
+#### 1.2.4 VS Code 업데이트
+### 1.3 VS Code 초기 설정 <a name="vs-code-initial-setup"></a>
 #### 
 #### 
-### VS Code 화면 구성<a name="customizing-vs-code"></a>
+### 1.4 VS Code 화면 구성<a name="vscode-view-configuration"></a>
 #### 
 #### 
+## 2. VS Code 사용하기 <a name="using-cs-code"></a>
