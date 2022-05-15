@@ -45,17 +45,17 @@
 
 ## Reference
 
-** Git/Github **
+**Git/Github**
 - [VS Code Git 기본 사용업](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be) 
 
-** Java **
+**Java**
 - [VS Java 개발환경 설정(1)](https://xenonhyx.com/vscode-java-off/) 
 - [VS Java 개발환경 설정(2)](https://teramaguro.hatenablog.com/entry/2021/12/28/042743)
 
-** Python **
+**Python**
 - [VS Code w/Python](https://atmarkit.itmedia.co.jp/ait/series/23363/) 
 
-** plug-in **
+**plug-in**
 - [2021 VSCode 추천 플러그인](https://web-guided.com/594/) 
 
 
