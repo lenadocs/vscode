@@ -1,7 +1,7 @@
-VS Code 실전 가이드(가제)
+# VS Code 실전 가이드(가제)
 
 
-# Table of Contents
+## Table of Contents
 
 1부 VS Code 기본 사용법
 
@@ -42,3 +42,12 @@ VS Code 실전 가이드(가제)
 #### 
 #### 
 ## 2. VS Code 사용하기 <a name="using-cs-code"></a>
+
+## Reference
+
+**Reference**
+- [VS Code Git 기본 사용업](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be) 
+- [2021 VSCode 추천 플러그인](https://web-guided.com/594/) 
+- [VS Code w/Python](https://atmarkit.itmedia.co.jp/ait/series/23363/) 
+- [VS Java 개발환경 설정(1)](https://xenonhyx.com/vscode-java-off/) 
+- [VS Java 개발환경 설정(2)](https://teramaguro.hatenablog.com/entry/2021/12/28/042743)
