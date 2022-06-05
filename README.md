@@ -1,4 +1,4 @@
-# VS Code 실전 가이드
+# VS Code 교과서
 
 
 ## Table of Contents
